@@ -1,0 +1,62 @@
+:root{
+  --title-logo:rgb(24, 119, 242);
+}
+
+body{
+  background-color: rgba(240, 242, 245);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo h1{
+  margin-left: 10rem;
+  margin-top:15% ;
+  top: 30px;
+  color: var(--title-logo);
+  font-size: 50px;
+  margin-bottom: 0;
+  
+}
+.home{
+  display: flex;
+  margin-left: 10rem;
+  font-size: 30px;
+  text-align: left;
+  margin-bottom: 5rem;
+  color: rgba(28, 38, 33);
+}
+
+.container {
+  background-color: white;
+  padding: 2rem;
+  margin: 4rem;
+  bottom: 25rem;
+  float: right;
+  position: relative;
+  display: block;
+  box-shadow: 3px 3px 3rem rgba(0, 0, 0, 0.007);
+  text-align: center;
+  border-radius: 5px;
+  
+}
+.txt{
+  margin-bottom: 0.55rem;
+}
+input  {
+  display: block;  
+  width: 300px;
+  padding: 20px ;
+  border-radius: 5px;
+  border-color:  rgba(229, 229, 230, 0.993);
+  border-collapse: separate;
+}
+
+
+
+
+
+
+
+
+
+footer{
+  margin-top: 20%;
+}
